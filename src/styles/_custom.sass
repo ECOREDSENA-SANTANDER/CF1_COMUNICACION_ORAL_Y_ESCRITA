@@ -2,13 +2,8 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+    top: 50%
+    right: 70%
 
 @keyframes float1
   0%
@@ -16,15 +11,47 @@
   100%
     transform: translateY(0px)
   
-
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: #212529 !important
 .banner-principal .tarjeta
   background-position: left 50% !important
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important   
+  width: 400px !important    
 .banner-interno__titulo__icono i
   color: $color-primario
 figcaption
   font-weight: normal
- 
+
+// ajustes portada 
+.banner-principal__row .banner-principal__img
+  width: 470px !important  
+.banner-interno__fondo    
+  background-image: url("../assets/curso/portada/banner_interno.png") !important
+.col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
+  padding-left: 1rem !important
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: #12263f
+
+.banner-principal
+  @media (max-width: $bp-max-md)
+    .tarjeta
+      background-image: url('../assets/curso/portada/cel-banner-principal.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 14% !important 
+    h1, p
+      color: $white
+
+.banner-principal  
+  @media (min-width: 768px) and (max-width: 1024px)
+    .tarjeta
+      background-image: url('../assets/curso/portada/tablet-banner-principal.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 8% !important 
+    h1, p
+      color: $white
