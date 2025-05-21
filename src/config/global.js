@@ -111,7 +111,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/ejemplo.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -127,21 +127,157 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
+      tema: 'Inteligencia emocional',
+      referencia: 'Goleman, Daniel. 1995. Inteligencia emocional.',
+      tipo: 'Libro',
+      link:
+        'https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Transversales/OVA/Comunicacion_oral_y_escrita/CF1_Comunicandonos/media/documentos/Inteligencia_Emocional.pdf',
+    },
+    {
+      tema: 'La comunicación',
+      referencia: 'Gómez, F. S. J. (2016). La comunicación. Salus, 20(3), 5-6.',
+      tipo: 'Libro',
+      link:
+        'https://ve.scielo.org/scielo.php?script=sci_arttext&pid=s1316-71382016000300002',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Asertividad',
+      significado:
+        'capacidad para expresar opiniones, sentimientos o derechos de manera firme pero respetuosa.',
+    },
+    {
+      termino: 'Canal',
+      significado:
+        'medio físico o virtual por el que se transmite el mensaje (voz, papel, teléfono, redes sociales, etc.).',
+    },
+    {
+      termino: 'Código',
+      significado:
+        'conjunto de signos y reglas que se utilizan para elaborar y descifrar un mensaje (idioma, gestos, símbolos, etc.).',
+    },
+    {
+      termino: 'Codificación',
+      significado:
+        'proceso mediante el cual el emisor convierte su idea en un mensaje utilizando un código comprensible para el receptor.',
+    },
+    {
+      termino: 'Comunicación',
+      significado:
+        'proceso mediante el cual se transmite información de un emisor a un receptor a través de un canal y con un mensaje determinado.',
+    },
+    {
+      termino: 'Contexto',
+      significado:
+        'circunstancias físicas, sociales, culturales o psicológicas que rodean y afectan el proceso comunicativo.',
+    },
+    {
+      termino: 'Decodificación',
+      significado:
+        'proceso mediante el cual el receptor interpreta y comprende el mensaje recibido.',
+    },
+    {
+      termino: 'Emisor',
+      significado:
+        'persona o entidad que produce y envía el mensaje dentro del proceso comunicativo.',
+    },
+    {
+      termino: 'Escucha activa',
+      significado:
+        'habilidad para prestar atención completa al mensaje del otro, interpretarlo correctamente y responder con empatía y comprensión.',
+    },
+    {
+      termino: 'Fidelidad comunicativa',
+      significado:
+        'grado en que el mensaje recibido se interpreta tal como lo quiso transmitir el emisor, sin distorsiones.',
+    },
+    {
+      termino: 'Intención comunicativa',
+      significado:
+        'propósito o finalidad con la que se emite un mensaje (informar, persuadir, entretener, pedir algo, etc.).',
+    },
+    {
+      termino: 'Lenguaje no verbal',
+      significado:
+        'conjunto de gestos, posturas, expresiones faciales, tono de voz, entre otros, que complementan o sustituyen el lenguaje verbal.',
+    },
+    {
+      termino: 'Lenguaje verbal',
+      significado: 'uso de palabras habladas o escritas para comunicar ideas.',
+    },
+    {
+      termino: 'Mensaje',
+      significado:
+        'contenido de la comunicación que se transmite de un emisor a un receptor. puede ser verbal, no verbal o mixto.',
+    },
+    {
+      termino: 'Oratoria',
+      significado:
+        'arte de hablar en público de forma clara, persuasiva y eficaz.',
+    },
+    {
+      termino: 'Percepción',
+      significado:
+        'interpretación personal que cada individuo hace del mensaje, influida por su experiencia, cultura y emociones.',
+    },
+    {
+      termino: 'Receptor',
+      significado:
+        'persona o entidad que recibe, interpreta y responde al mensaje enviado por el emisor.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia: 'Anda, C. (2015). Escuchar es una actitud.',
+      link: 'https://studylib.es/doc/5795567/escuchar-es-una-actitud-cal',
+    },
+    {
+      referencia: 'Conceptos.de (2020). Concepto de oratoria.',
+      link: 'https://concepto.de/oratoria/',
+    },
+    {
+      referencia: 'Matínez, A. (2020). Estrategias para mejorar la escucha.  ',
+      link: '',
+    },
+    {
+      referencia:
+        'Ortega, E. (2002). Cómo lograr que los demás se salgan con la nuestra. Técnicas de persuasión, negociación y oratoria.',
+      link: '',
+    },
+    {
+      referencia:
+        'Pinto, H. (2011). Modelo de comunicación según Virgini Satir. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Quintero, Á, M. (1997). Trabajo Social y Procesos Familiares. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Robbins, S. (1996) Administración Teoría y Práctica. Prentice Hall. Hispanoamericana, S.A: México.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rodríguez, P. (2020) Comunicación oral y escrita. Documento adjunto.',
+      link: '',
+    },
+    {
+      referencia:
+        'Stoner, J. (1996). Administración. Edit Prentice Hall, S.A. Edición. México.',
+      link: '',
+    },
+    {
+      referencia:
+        'Toscano V. (2017). ORATORIA: Cómo Mejorar La Voz Para Hablar Fuerte | Técnicas Para Hablar Bien y Tener Expresión Oral. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Toscano V. (2016). Oratoria, Curso para Hablar en Público: 7 Ejercicios para Mejorar la Voz | Técnicas de Volumen #147. ',
       link: '',
     },
   ],
@@ -165,9 +301,19 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: ' ',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Elba Patricia Rodríguez',
+          cargo: 'Experta técnica',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial ',
+        },
+        {
+          nombre: 'Zvi Daniel Grosman',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -175,33 +321,18 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Leonardo Castellanos Rodríguez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro Agroturístico - Regional Santander',
-        },
-      ],
-    },
-    {
-      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
-      autores: [
-        {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
