@@ -16,7 +16,7 @@
         p Desde una perspectiva general, la comunicación no verbal constituye la forma más utilizada por los seres humanos para interactuar, incluso por encima del lenguaje verbal. Tal como lo afirmaban los investigadores de la Escuela de Palo Alto, “es imposible no comunicarse” (Watzlawick, Beavin y Jackson, 1967). Esta afirmación subraya que, incluso en el silencio o en la aparente inacción, las personas emiten mensajes constantemente a través de su comportamiento, postura, expresiones faciales o gestos.
       .col-lg-12 
         p La comunicación no verbal comprende un amplio conjunto de elementos que incluyen la kinesia (movimientos corporales, gestos, expresiones faciales), la proxemia (uso del espacio personal), la paralengua (entonación, volumen, pausas) y la háptica (comunicación mediante el tacto), entre otros. Todos estos componentes contribuyen de manera decisiva a la interpretación de los mensajes, ya que muchas veces el significado real de una interacción se encuentra más en la forma en que se dice algo que en las palabras mismas.
-        p En el contexto actual, la comunicación no verbal ha adquirido nuevas formas gracias al desarrollo tecnológico. A pesar de la aparente “ausencia” del cuerpo en medios digitales, la no verbalidad se adapta y se expresa en otros formatos: el uso de emojis, gifs, stickers, silencios digitales (como el visto sin respuesta), los tiempos de respuesta, la elección de tipografías, e incluso los colores o formatos de mensajes en redes como Twitter, WhatsApp o correos electrónicos. Estos elementos, aunque digitales, también comunican actitudes, emociones o intenciones, y permiten que la comunicación no verbal continúe desempeñando un papel fundamental en los entornos virtuales.
+        p En el contexto actual, la comunicación no verbal ha adquirido nuevas formas gracias al desarrollo tecnológico. A pesar de la aparente “ausencia” del cuerpo en medios digitales, la no verbalidad se adapta y se expresa en otros formatos: el uso de #[em emojis, gifs, stickers,] silencios digitales (como el visto sin respuesta), los tiempos de respuesta, la elección de tipografías, e incluso los colores o formatos de mensajes en redes como Twitter, WhatsApp o correos electrónicos. Estos elementos, aunque digitales, también comunican actitudes, emociones o intenciones, y permiten que la comunicación no verbal continúe desempeñando un papel fundamental en los entornos virtuales.
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-up")
@@ -49,7 +49,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12.col-md-11.mb-4
         .d-flex.align-items-center
-          h3.bg5.py-2.w-card-text2 Recomendación 1: Autorregulación emocional previa al habla 
+          h3.bg5.py-2.w-card-text2 Recomendación 1: autorregulación emocional previa al habla 
 
     .row.justify-content-center.mb-5.align-items-center.bg-color-1(data-aos="fade-left")
       .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
@@ -77,7 +77,7 @@
     .row.justify-content-center.align-items-center.mb-1(data-aos="fade-up")
       .col-lg-12.col-md-11.mb-4
         .d-flex.align-items-center
-          h3.bg5.py-2.w-card-text2 Recomendación 2: Consciencia vocal 
+          h3.bg5.py-2.w-card-text2 Recomendación 2: consciencia vocal 
 
     p Es esencial desarrollar consciencia sobre los elementos que componen la voz, los cuales interactúan como los instrumentos de una orquesta al momento de emitir el mensaje. Estos son:
 
@@ -109,8 +109,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Explora el siguiente video: 
-              p.mb-0 Oratoria, Curso para Hablar en Público: 7 Ejercicios para Mejorar la Voz | Técnicas de Volumen #147. 
+              h4.mb-1 Oratoria, Curso para Hablar en Público:
+              p.mb-0 7 Ejercicios para Mejorar la Voz | Técnicas de Volumen #147. 
             .col-sm-auto.p-4
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=jDTU8FAkWV0')" target="_blank")
                 span Ver video 
@@ -289,7 +289,7 @@
             .row(numero="4" titulo="El sistema sociocultural")
               .col-md-12.mb-4.mb-md-0
                 p.text-small Las diferencias sociales y culturales condicionan el estilo y la forma en que las personas se comunican. Las interpretaciones y modos de expresión pueden variar considerablemente según el entorno cultural, lo que exige sensibilidad y adaptabilidad por parte del comunicador.
-                p.text-small Por su parte, Stoner (1996, pp. 376-410) añade que la diferencia entre una comunicación efectiva e inefectiva puede estar en la manera en que las partes involucradas gestionan las diferencias de percepción, ya que las personas interpretan los mensajes según sus conocimientos, experiencias y contexto. Además, las emociones como la ira, el miedo, el amor o el odio también afectan la forma en que se recibe y procesa un mensaje, influyendo directamente en la comprensión y en la calidad del intercambio comunicativo.
+                p.text-small Por su parte, Stoner (1996, pp. 376 - 410) añade que la diferencia entre una comunicación efectiva e inefectiva puede estar en la manera en que las partes involucradas gestionan las diferencias de percepción, ya que las personas interpretan los mensajes según sus conocimientos, experiencias y contexto. Además, las emociones como la ira, el miedo, el amor o el odio también afectan la forma en que se recibe y procesa un mensaje, influyendo directamente en la comprensión y en la calidad del intercambio comunicativo.
  
         .col-lg-6.col-11.col-md-8
           img.mb-3(src='@/assets/curso/Tema2/img12.png', alt='')

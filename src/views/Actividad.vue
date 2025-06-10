@@ -23,7 +23,7 @@ export default {
         '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales sobre la comunicación.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,

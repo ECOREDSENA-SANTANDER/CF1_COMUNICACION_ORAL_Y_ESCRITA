@@ -28,31 +28,38 @@
 
       p La naturaleza de la comunicación abarca diversos aspectos que determinan cómo los seres humanos interactúan, intercambian ideas y construyen significados. Se trata de un proceso fundamental que está presente en todos los ámbitos de la vida humana, desde la comunicación interpersonal hasta los medios masivos y digitales. Para comprender mejor su naturaleza, podemos desglosarla en varios elementos clave:
 
-      .row.justify-content-center.mb-5(data-aos="fade-left")
-        .col-lg-6.mb-3
-          LineaTiempoD.color-acento-botones.activo
-            .row(numero="1" titulo="Interactividad")
-              .col-md-12.mb-4.mb-md-0
-                p.text-small La comunicación es un proceso interactivo entre emisor y receptor. Ambos roles pueden cambiar, y la comunicación puede ser tanto unidireccional como bidireccional, lo que implica que el receptor también puede influir en el mensaje a través de retroalimentación. Esta retroalimentación es esencial, ya que permite la corrección, adaptación o enriquecimiento del mensaje en función de la respuesta del receptor.
-            .row(numero="2" titulo="Simbolismo")
-              .col-md-12.mb-4.mb-md-0
-                p.text-small La comunicación se basa en símbolos (palabras, gestos, imágenes, etc.) que tienen un significado compartido. Estos símbolos no son inherentemente significativos por sí mismos; su significado depende del contexto cultural y social en el que se utilicen. Así, el lenguaje verbal y no verbal son herramientas clave para transmitir y recibir información.
-            .row(numero="3" titulo="Contextualidad")
-              .col-md-12.mb-4.mb-md-0
-                p.text-small la comunicación siempre ocurre dentro de un contexto específico que influye en su significado y efectividad. Este contexto incluye factores como el entorno cultural, social, histórico y personal de los interlocutores. El mismo mensaje puede tener diferentes interpretaciones dependiendo de estos elementos.
-            .row(numero="4" titulo="Relacionalidad")
-              .col-md-12.mb-4.mb-md-0
-                p.text-small La comunicación no solo transmite información, sino que también establece relaciones entre los individuos. A través de la forma en que nos comunicamos, expresamos nuestras emociones, actitudes y valores, creando o reforzando lazos de confianza, cooperación o conflicto.
-            .row(numero="5" titulo="Intencionalidad")
-              .col-md-12.mb-4.mb-md-0
-                p.text-small Aunque parte de la comunicación puede ser no verbal o involuntaria, una gran parte de ella tiene una intención consciente, como la persuasión, la educación, el entretenimiento o la expresión de emociones. Las intenciones guían el contenido y la forma del mensaje.
-            .row(numero="6" titulo="Multidimensionalidad")
-              .col-md-12.mb-4.mb-md-0
-                p.text-small la comunicación es compleja y tiene múltiples dimensiones. Aparte de la dimensión verbal, también está la no verbal (gestos, postura, tono de voz) que transmite emociones y actitudes, y el paralenguaje (cómo decimos algo, más que lo que decimos). Esta complejidad contribuye a que la comunicación sea una actividad rica y multifacética.
-            .row(numero="7" titulo="Proceso continuo")
-              .col-md-12.mb-4.mb-md-0
-                p.text-small La comunicación no es un evento aislado, sino un proceso continuo y dinámico. A lo largo de la interacción, los mensajes se modifican, reinterpretan y responden. Es un flujo constante de información que evoluciona en función de las interacciones y el contexto.
-        .col-lg-6.col-11.col-md-8
+      .row.justify-content-center.align-items-center.mb-1(data-aos="fade-left")
+        .col-lg-7
+          SlyderA(tipo="b").p-4.fondo11.mb-4
+            .row.justify-content-center.mb-5
+              .col-md-12.mb-4.mb-md-0.col-lg-11.mt-4
+                h5 Interactividad
+                p La comunicación es un proceso interactivo entre emisor y receptor. Ambos roles pueden cambiar, y la comunicación puede ser tanto unidireccional como bidireccional, lo que implica que el receptor también puede influir en el mensaje a través de retroalimentación. Esta retroalimentación es esencial, ya que permite la corrección, adaptación o enriquecimiento del mensaje en función de la respuesta del receptor.
+            .row.justify-content-center.align-items-center
+              .col-md-12.mb-4.mb-md-0.col-lg-12
+                h5 Simbolismo
+                p La comunicación se basa en símbolos (palabras, gestos, imágenes, etc.) que tienen un significado compartido. Estos símbolos no son inherentemente significativos por sí mismos; su significado depende del contexto cultural y social en el que se utilicen. Así, el lenguaje verbal y no verbal son herramientas clave para transmitir y recibir información.
+            .row.justify-content-center.align-items-center
+              .col-md-12.mb-4.mb-md-0.col-lg-12
+                h5 Contextualidad
+                p La comunicación siempre ocurre dentro de un contexto específico que influye en su significado y efectividad. Este contexto incluye factores como el entorno cultural, social, histórico y personal de los interlocutores. El mismo mensaje puede tener diferentes interpretaciones dependiendo de estos elementos.
+            .row.justify-content-center.align-items-center
+              .col-md-12.mb-4.mb-md-0.col-lg-12
+                h5 Relacionalidad
+                p La comunicación no solo transmite información, sino que también establece relaciones entre los individuos. A través de la forma en que nos comunicamos, expresamos nuestras emociones, actitudes y valores, creando o reforzando lazos de confianza, cooperación o conflicto.
+            .row.justify-content-center.align-items-center
+              .col-md-12.mb-4.mb-md-0.col-lg-12
+                h5 Intencionalidad
+                p Aunque parte de la comunicación puede ser no verbal o involuntaria, una gran parte de ella tiene una intención consciente, como la persuasión, la educación, el entretenimiento o la expresión de emociones. Las intenciones guían el contenido y la forma del mensaje.
+            .row.justify-content-center.align-items-center
+              .col-md-12.mb-4.mb-md-0.col-lg-12
+                h5 Multidimensionalidad
+                p La comunicación es compleja y tiene múltiples dimensiones. Aparte de la dimensión verbal, también está la no verbal (gestos, postura, tono de voz) que transmite emociones y actitudes, y el paralenguaje (cómo decimos algo, más que lo que decimos). Esta complejidad contribuye a que la comunicación sea una actividad rica y multifacética.
+            .row.justify-content-center.align-items-center
+              .col-md-12.mb-4.mb-md-0.col-lg-12
+                h5 Proceso continuo
+                p La comunicación no es un evento aislado, sino un proceso continuo y dinámico. A lo largo de la interacción, los mensajes se modifican, reinterpretan y responden. Es un flujo constante de información que evoluciona en función de las interacciones y el contexto.
+        .col-lg-5.col-11.col-md-6
           img.mb-3(src='@/assets/curso/Tema1/img02.png', alt='')
 
 
@@ -68,46 +75,39 @@
         .col-lg-6
           p La comunicación es un proceso complejo y bidireccional que involucra la interacción entre al menos dos participantes: el emisor y el receptor. Sin embargo, en la práctica, ambos roles son intercambiables y dinámicos, ya que los interlocutores pueden alternar funciones a lo largo del proceso comunicativo. Este ciclo de interacción se explica a través de varias teorías clave que resaltan su naturaleza fluida y susceptible de cambios.
 
-      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-lg-10 
-          PasosA.color-acento-contenido.mb-5(tipo="n")
-            .row.align-items-center
-              .col-md-7.mb-4.mb-md-0
-                h3 Interactividad y circularidad
-                p La comunicación no es un proceso unidireccional, sino más bien circular. Esto significa que tanto el emisor como el receptor tienen roles activos y pueden influir mutuamente en el curso de la comunicación. Cuando el receptor responde al mensaje del emisor, se convierte a su vez en emisor, lo que provoca una retroalimentación constante entre los participantes. Este concepto se relaciona con el modelo de Shannon y Weaver (1949), que, aunque inicialmente planteaba un modelo lineal, también reconocía la importancia de la retroalimentación como un mecanismo que permite ajustar el mensaje durante el proceso de transmisión.
-              .col-md-5
-                figure
-                  img(src='@/assets/curso/Tema1/img05.png', alt='')
-             
-            .row.align-items-center
-              .col-md-5.mb-4.mb-md-0
-                figure
-                  img(src='@/assets/curso/Tema1/img06.png', alt='')
-              .col-md-7
-                h3 La influencia del medio en el individuo
-                p El medio a través del cual se transmite el mensaje tiene un impacto significativo en la forma en que el individuo percibe y responde a la comunicación. Según el modelo de comunicación de la Escuela de Palo Alto, encabezado por Paul Watzlawi    ck, la comunicación es un proceso continuo, y cualquier interacción siempre es una forma de comunicación, ya sea verbal o no verbal. Este enfoque subraya que el medio y el contexto (como el cultural, social y tecnológico) determinan en gran medida el significado de los mensajes, lo que sugiere que la comunicación está en constante cambio y es sensible a los diferentes factores que influyen en la interacción.
-            .row.align-items-center
-              .col-md-7.mb-4.mb-md-0
-                h3 Roles de emisor y receptor
-                p Siguiendo la perspectiva de Quintero (1997), es fundamental comprender los roles de los interlocutores en el proceso comunicativo. El emisor es el encargado de transmitir el mensaje, mientras que el receptor lo recibe y, en muchos casos, responde a él. Sin embargo, como se mencionó antes, estos roles no son estáticos. En el modelo de comunicación propuesto por Roman Jakobson (1960), se destaca la función de la retroalimentación, que convierte al receptor en emisor en un ciclo continuo. Es a través de esta interactividad que la comunicación puede ser efectiva, ya que permite ajustes en tiempo real basados en la recepción del mensaje y las respuestas generadas.
-              .col-md-5
-                figure
-                  img(src='@/assets/curso/Tema1/img07.png', alt='')
-             
-            .row.align-items-center
-              .col-md-5.mb-4.mb-md-0
-                figure
-                  img(src='@/assets/curso/Tema1/img08.png', alt='')
-              .col-md-7
-                h3 Responsabilidad y reflexividad
-                p La responsabilidad del receptor en la comunicación es crucial. Según el modelo interaccionista de la comunicación de Herbert A. Simon, los participantes no solo deben emitir y recibir mensajes, sino también interpretar, filtrar y, en muchos casos, alterar la información para ajustarla a su propio contexto o perspectiva. La habilidad del receptor para reflexionar sobre el mensaje, entender su contexto y responder de manera adecuada contribuye a la efectividad de la comunicación. La reflexividad, entendida como la capacidad de reconocer y ajustar los procesos comunicativos, es vital para la construcción de sentido.
-            .row.align-items-center
-              .col-md-7.mb-4.mb-md-0
-                h3 El modelo de comunicación transaccional
-                p En lugar de ver la comunicación como una secuencia de pasos estáticos (emisor-mensaje-receptor), el modelo transaccional de Barnlund (1970) propone que los interlocutores están continuamente enviando y recibiendo mensajes al mismo tiempo, sin una distinción clara entre emisor y receptor. Ambos participan activamente en la creación del significado, lo que hace que la comunicación sea más fluida y adaptable. Esto refleja una visión de la comunicación como un proceso dinámico y co-creado.
-              .col-md-5
-                figure
-                  img(src='@/assets/curso/Tema1/img09.png', alt='')
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-up")
+        .col-lg-12 
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+            .row.align-items-center.justify-content-center(titulo="Interactividad y circularidad")
+              .col-md-12.mb-4.mb-md-0.col-lg-7
+                p.px-5 La comunicación no es un proceso unidireccional, sino más bien circular. Esto significa que tanto el emisor como el receptor tienen roles activos y pueden influir mutuamente en el curso de la comunicación. Cuando el receptor responde al mensaje del emisor, se convierte a su vez en emisor, lo que provoca una retroalimentación constante entre los participantes. Este concepto se relaciona con el modelo de Shannon y Weaver (1949), que, aunque inicialmente planteaba un modelo lineal, también reconocía la importancia de la retroalimentación como un mecanismo que permite ajustar el mensaje durante el proceso de transmisión.
+              .col-md-6.col-lg-4
+                img(src='@/assets/curso/Tema1/img05.png', alt='')
+
+            .row.align-items-center.justify-content-center(titulo="La influencia del medio en el individuo") 
+              .col-md-12.mb-4.mb-md-0.col-lg-7
+                p.px-5 El medio a través del cual se transmite el mensaje tiene un impacto significativo en la forma en que el individuo percibe y responde a la comunicación. Según el modelo de comunicación de la Escuela de Palo Alto, encabezado por Paul Watzlawi    ck, la comunicación es un proceso continuo, y cualquier interacción siempre es una forma de comunicación, ya sea verbal o no verbal. Este enfoque subraya que el medio y el contexto (como el cultural, social y tecnológico) determinan en gran medida el significado de los mensajes, lo que sugiere que la comunicación está en constante cambio y es sensible a los diferentes factores que influyen en la interacción.
+              .col-md-6.col-lg-4
+                img(src='@/assets/curso/Tema1/img06.png', alt='')
+
+            .row.align-items-center.justify-content-center(titulo="Roles de emisor y receptor conceptual") 
+              .col-md-12.mb-4.mb-md-0.col-lg-7
+                p.px-5 Siguiendo la perspectiva de Quintero (1997), es fundamental comprender los roles de los interlocutores en el proceso comunicativo. El emisor es el encargado de transmitir el mensaje, mientras que el receptor lo recibe y, en muchos casos, responde a él. Sin embargo, como se mencionó antes, estos roles no son estáticos. En el modelo de comunicación propuesto por Roman Jakobson (1960), se destaca la función de la retroalimentación, que convierte al receptor en emisor en un ciclo continuo. Es a través de esta interactividad que la comunicación puede ser efectiva, ya que permite ajustes en tiempo real basados en la recepción del mensaje y las respuestas generadas.
+              .col-md-6.col-lg-4
+                img(src='@/assets/curso/Tema1/img07.png', alt='')
+
+            .row.align-items-center.justify-content-center(titulo="Responsabilidad y reflexividad")  
+              .col-md-12.mb-4.mb-md-0.col-lg-7
+                p.px-5 La responsabilidad del receptor en la comunicación es crucial. Según el modelo interaccionista de la comunicación de Herbert A. Simon, los participantes no solo deben emitir y recibir mensajes, sino también interpretar, filtrar y, en muchos casos, alterar la información para ajustarla a su propio contexto o perspectiva. La habilidad del receptor para reflexionar sobre el mensaje, entender su contexto y responder de manera adecuada contribuye a la efectividad de la comunicación. La reflexividad, entendida como la capacidad de reconocer y ajustar los procesos comunicativos, es vital para la construcción de sentido.
+              .col-md-6.col-lg-4
+                img(src='@/assets/curso/Tema1/img08.png', alt='')
+
+            .row.align-items-center.justify-content-center(titulo="El modelo de comunicación transaccional")  
+              .col-md-12.mb-4.mb-md-0.col-lg-7
+                p.px-5 En lugar de ver la comunicación como una secuencia de pasos estáticos (emisor - mensaje - receptor), el modelo transaccional de Barnlund (1970) propone que los interlocutores están continuamente enviando y recibiendo mensajes al mismo tiempo, sin una distinción clara entre emisor y receptor. Ambos participan activamente en la creación del significado, lo que hace que la comunicación sea más fluida y adaptable. Esto refleja una visión de la comunicación como un proceso dinámico y co - creado.
+              .col-md-6.col-lg-4
+                img(src='@/assets/curso/Tema1/img09.png', alt='')
+      
 
       separador
       #t_1_3.titulo-segundo.mb-5

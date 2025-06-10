@@ -127,7 +127,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Inteligencia emocional',
+      tema: 'Comunicación verbal y no verbal',
       referencia: 'Goleman, Daniel. 1995. Inteligencia emocional.',
       tipo: 'Libro',
       link:
@@ -209,7 +209,7 @@ export default {
     {
       termino: 'Mensaje',
       significado:
-        'contenido de la comunicación que se transmite de un emisor a un receptor. puede ser verbal, no verbal o mixto.',
+        'contenido de la comunicación que se transmite de un emisor a un receptor puede ser verbal, no verbal o mixto.',
     },
     {
       termino: 'Oratoria',
@@ -303,12 +303,12 @@ export default {
         {
           nombre: 'Elba Patricia Rodríguez',
           cargo: 'Experta técnica',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial ',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Zvi Daniel Grosman',
           cargo: 'Diseñadora Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
