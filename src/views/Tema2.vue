@@ -178,28 +178,28 @@
           LineaTiempoD.color-acento-botones.activo
             .row(numero="1" titulo="Prestar atención")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Concéntrate en lo que te están diciendo.
-            .row(numero="2" titulo="Evita juzgar")
+                p.text-small Es fundamental que la persona se concentre en lo que el interlocutor está diciendo, sin distracciones.
+            .row(numero="2" titulo="Evitar juzgar")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Cada uno de nosotros tiene sus propias creencias y juicios. Trata de ser imparcial.
-            .row(numero="3" titulo="Tranquiliza tu mente")
+                p.text-small Cada individuo posee creencias y juicios propios. Se recomienda que quien escucha adopte una postura imparcial y abierta.
+            .row(numero="3" titulo="Tranquilizar la mente")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Si tus pensamientos se van de un lado a otro, vuelve a traerlos a la conversación.
-            .row(numero="4" titulo="No des consejos")
+                p.text-small Cuando los pensamientos comienzan a divagar, es importante que la persona los redirija hacia la conversación presente.
+            .row(numero="4" titulo="No dar consejos sin consentimiento")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Antes de dar un consejo, primero pregunta si la persona está buscando un consejo.
-            .row(numero="5" titulo="No interrumpas")
+                p.text-small Antes de ofrecer una sugerencia, es preferible que se pregunte si la otra persona está abierta a recibir consejos.
+            .row(numero="5" titulo="No interrumpir")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Evita mostrar que tu tema es más importante que el que estás escuchando.
-            .row(numero="6" titulo="Guarda silencio")
+                p.text-small La interrupción puede transmitir que el tema del oyente es más relevante. Se sugiere esperar el turno para hablar y demostrar respeto.
+            .row(numero="6" titulo="Guardar silencio")
               .col-md-12.mb-4.mb-md-0
-                p.text-small El silencio ayuda a la concentración y favorece la calma.
-            .row(numero="7" titulo="Fíjate en el lenguaje corporal")
+                p.text-small El silencio favorece la concentración, permite reflexionar y genera un ambiente de calma durante el diálogo.
+            .row(numero="7" titulo="Observar el lenguaje corporal")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Observa el lenguaje corporal, dice más que las palabras.
-            .row(numero="8" titulo="Confirma lo escuchado")
+                p.text-small El cuerpo comunica tanto como las palabras. Prestar atención a los gestos y posturas puede ofrecer información valiosa.
+            .row(numero="8" titulo="Confirmar lo escuchado")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Resume la conversación, confirma lo escuchado para verificar que lo entendiste bien.
+                p.text-small Para asegurar una comprensión adecuada, es útil resumir lo dicho y verificar con el interlocutor que se ha comprendido correctamente.
         .col-lg-6.col-11.col-md-8
           img.mb-3(src='@/assets/curso/Tema2/img10.png', alt='')
 
