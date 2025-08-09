@@ -23,8 +23,8 @@
         .col-lg-12
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video. 
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/6u7Vmka2aHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video. Naturaleza de la comunicación
 
       p La naturaleza de la comunicación abarca diversos aspectos que determinan cómo los seres humanos interactúan, intercambian ideas y construyen significados. Se trata de un proceso fundamental que está presente en todos los ámbitos de la vida humana, desde la comunicación interpersonal hasta los medios masivos y digitales. Para comprender mejor su naturaleza, podemos desglosarla en varios elementos clave:
 
