@@ -128,7 +128,7 @@ export default {
   complementario: [
     {
       tema: 'Comunicación verbal y no verbal',
-      referencia: 'Goleman, Daniel. 1995. Inteligencia emocional.',
+      referencia: 'Goleman, D. (1995). Inteligencia emocional. Kairós.',
       tipo: 'Libro',
       link:
         'https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Transversales/OVA/Comunicacion_oral_y_escrita/CF1_Comunicandonos/media/documentos/Inteligencia_Emocional.pdf',
@@ -233,7 +233,7 @@ export default {
       link: 'https://studylib.es/doc/5795567/escuchar-es-una-actitud-cal',
     },
     {
-      referencia: 'Conceptos.de (2020). Concepto de oratoria.',
+      referencia: 'Conceptos. (2020). Concepto de oratoria.',
       link: 'https://concepto.de/oratoria/',
     },
     {

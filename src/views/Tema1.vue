@@ -86,7 +86,7 @@
 
             .row.align-items-center.justify-content-center(titulo="La influencia del medio en el individuo") 
               .col-md-12.mb-4.mb-md-0.col-lg-7
-                p.px-5 El medio a través del cual se transmite el mensaje tiene un impacto significativo en la forma en que el individuo percibe y responde a la comunicación. Según el modelo de comunicación de la Escuela de Palo Alto, encabezado por Paul Watzlawi    ck, la comunicación es un proceso continuo, y cualquier interacción siempre es una forma de comunicación, ya sea verbal o no verbal. Este enfoque subraya que el medio y el contexto (como el cultural, social y tecnológico) determinan en gran medida el significado de los mensajes, lo que sugiere que la comunicación está en constante cambio y es sensible a los diferentes factores que influyen en la interacción.
+                p.px-5 El medio a través del cual se transmite el mensaje tiene un impacto significativo en la forma en que el individuo percibe y responde a la comunicación. Según el modelo de comunicación de la Escuela de Palo Alto, encabezado por Paul Watzlawick, la comunicación es un proceso continuo, y cualquier interacción siempre es una forma de comunicación, ya sea verbal o no verbal. Este enfoque subraya que el medio y el contexto (como el cultural, social y tecnológico) determinan en gran medida el significado de los mensajes, lo que sugiere que la comunicación está en constante cambio y es sensible a los diferentes factores que influyen en la interacción.
               .col-md-6.col-lg-4
                 img(src='@/assets/curso/Tema1/img06.png', alt='')
 

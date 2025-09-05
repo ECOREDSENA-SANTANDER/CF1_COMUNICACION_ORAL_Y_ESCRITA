@@ -70,7 +70,7 @@
               p.mb-0 Oratoria, Curso para Hablar en Público: 7 Ejercicios para Mejorar la Voz | Técnicas de Volumen #147. 
             .col-sm-auto.p-4
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=4lQoCP_wN6k')" target="_blank")
-                span Ver video 
+                span Ir al sitio
                 i.fas.fa-link
 
 
@@ -96,7 +96,7 @@
 
           .row.justify-content-center.align-items-center(titulo="Entonación")
             .col-md-11.mb-4.mb-md-0
-              p.px-3 Es la variación rítmica del tono de voz a lo largo del discurso. A través de la entonación se puede enfatizar palabras o frases clave, evitar la monotonía y mantener la atención del oyente. Incluir pausas adecuadas, cambios de ritmo y volumen contribuye a una comunicación más efectiva y dinámica.
+              p.px-3 Es la variación rítmica del tono de voz a lo largo del discurso. A través de la entonación se puede enfatizar palabras o frases clave, evitar la monotonía y mantener la atención del oyente. Incluir pausas adecuadas, cambios de ritmo y volumen, contribuye a una comunicación más efectiva y dinámica.
           
           .row.justify-content-center.align-items-center(titulo="Timbre")
             .col-md-11.mb-4.mb-md-0
