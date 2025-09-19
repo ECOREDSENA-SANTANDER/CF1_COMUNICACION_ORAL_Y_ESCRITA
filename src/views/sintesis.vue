@@ -10,7 +10,7 @@
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.jpg", alt="La comunicación es el intercambio de información entre personas. Puede ser verbal o no verbal, y su efectividad depende de cómo se transmite y recibe el mensaje. Ser asertivo permite expresarse con claridad y respeto.")
+          img(src="@/assets/curso/sintesis.svg", alt="La comunicación es el intercambio de información entre personas. Puede ser verbal o no verbal, y su efectividad depende de cómo se transmite y recibe el mensaje. Ser asertivo permite expresarse con claridad y respeto.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

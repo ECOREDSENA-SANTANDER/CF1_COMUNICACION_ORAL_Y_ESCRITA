@@ -66,7 +66,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Explora el siguiente video: 
+              h4.mb-1 Explore el siguiente video: 
               p.mb-0 Oratoria, Curso para Hablar en Público: 7 Ejercicios para Mejorar la Voz | Técnicas de Volumen #147. 
             .col-sm-auto.p-4
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=4lQoCP_wN6k')" target="_blank")
@@ -109,11 +109,11 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Oratoria, Curso para Hablar en Público:
-              p.mb-0 7 Ejercicios para Mejorar la Voz | Técnicas de Volumen #147. 
+              h4.mb-1 Explore el siguiente video:
+              p.mb-0 7 ORATORIA: Cómo Mejorar La Voz Para Hablar Fuerte | Técnicas Para Hablar Bien y Tener Expresión Oral.
             .col-sm-auto.p-4
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=jDTU8FAkWV0')" target="_blank")
-                span Ver video 
+                span Ir al sitio
                 i.fas.fa-link
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -146,7 +146,7 @@
         .d-flex.align-items-center.mt-4
           img.w-card-icon(src="@/assets/curso/Tema2/ico.svg")
           h3.bg2.py-2.w-card-text La oratoria como competencia en formación profesional
-    p.mb-5 En el marco de la formación profesional impartida por el SENA, los aprendices tienen la oportunidad de desarrollar y fortalecer sus habilidades comunicativas, incluyendo la oratoria. Esto implica mucho más que saber hablar: la oratoria es el arte de expresarse de forma clara, estructurada y persuasiva ante un público, como lo expresa conceptos (2020):
+    p.mb-5 En el marco de la formación profesional impartida por el SENA, los aprendices tienen la oportunidad de desarrollar y fortalecer sus habilidades comunicativas, incluyendo la oratoria. Esto implica mucho más que saber hablar: la oratoria es el arte de expresarse de forma clara, estructurada y persuasiva ante un público, como lo expresa Conceptos (2020):
 
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
