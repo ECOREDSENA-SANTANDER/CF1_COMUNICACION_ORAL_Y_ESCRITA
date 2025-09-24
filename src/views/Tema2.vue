@@ -110,7 +110,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-1 Explore el siguiente video:
-              p.mb-0 7 ORATORIA: Cómo Mejorar La Voz Para Hablar Fuerte | Técnicas Para Hablar Bien y Tener Expresión Oral.
+              p.mb-0 ORATORIA: Cómo Mejorar La Voz Para Hablar Fuerte | Técnicas Para Hablar Bien y Tener Expresión Oral.
             .col-sm-auto.p-4
               a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=jDTU8FAkWV0')" target="_blank")
                 span Ir al sitio
