@@ -178,28 +178,28 @@
           LineaTiempoD.color-acento-botones.activo
             .row(numero="1" titulo="Prestar atención")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Es fundamental que la persona se concentre en lo que el interlocutor está diciendo, sin distracciones.
+                p Es fundamental que la persona se concentre en lo que el interlocutor está diciendo, sin distracciones.
             .row(numero="2" titulo="Evitar juzgar")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Cada individuo posee creencias y juicios propios. Se recomienda que quien escucha adopte una postura imparcial y abierta.
+                p Cada individuo posee creencias y juicios propios. Se recomienda que quien escucha adopte una postura imparcial y abierta.
             .row(numero="3" titulo="Tranquilizar la mente")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Cuando los pensamientos comienzan a divagar, es importante que la persona los redirija hacia la conversación presente.
+                p Cuando los pensamientos comienzan a divagar, es importante que la persona los redirija hacia la conversación presente.
             .row(numero="4" titulo="No dar consejos sin consentimiento")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Antes de ofrecer una sugerencia, es preferible que se pregunte si la otra persona está abierta a recibir consejos.
+                p Antes de ofrecer una sugerencia, es preferible que se pregunte si la otra persona está abierta a recibir consejos.
             .row(numero="5" titulo="No interrumpir")
               .col-md-12.mb-4.mb-md-0
-                p.text-small La interrupción puede transmitir que el tema del oyente es más relevante. Se sugiere esperar el turno para hablar y demostrar respeto.
+                p La interrupción puede transmitir que el tema del oyente es más relevante. Se sugiere esperar el turno para hablar y demostrar respeto.
             .row(numero="6" titulo="Guardar silencio")
               .col-md-12.mb-4.mb-md-0
-                p.text-small El silencio favorece la concentración, permite reflexionar y genera un ambiente de calma durante el diálogo.
+                p El silencio favorece la concentración, permite reflexionar y genera un ambiente de calma durante el diálogo.
             .row(numero="7" titulo="Observar el lenguaje corporal")
               .col-md-12.mb-4.mb-md-0
-                p.text-small El cuerpo comunica tanto como las palabras. Prestar atención a los gestos y posturas puede ofrecer información valiosa.
+                p El cuerpo comunica tanto como las palabras. Prestar atención a los gestos y posturas puede ofrecer información valiosa.
             .row(numero="8" titulo="Confirmar lo escuchado")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Para asegurar una comprensión adecuada, es útil resumir lo dicho y verificar con el interlocutor que se ha comprendido correctamente.
+                p Para asegurar una comprensión adecuada, es útil resumir lo dicho y verificar con el interlocutor que se ha comprendido correctamente.
         .col-lg-6.col-11.col-md-8
           img.mb-3(src='@/assets/curso/Tema2/img10.png', alt='')
 
@@ -279,17 +279,17 @@
           LineaTiempoD.color-acento-botones.activo
             .row(numero="1" titulo="Las habilidades comunicativas")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Robbins identifica cinco habilidades fundamentales. Dos de ellas corresponden a la codificación del mensaje: hablar y escribir; otras dos son decodificadoras: leer y escuchar. La quinta, y quizás la más relevante, es la capacidad de reflexión o pensamiento, pues esta permite estructurar el mensaje con claridad y coherencia.
+                p Robbins identifica cinco habilidades fundamentales. Dos de ellas corresponden a la codificación del mensaje: hablar y escribir; otras dos son decodificadoras: leer y escuchar. La quinta, y quizás la más relevante, es la capacidad de reflexión o pensamiento, pues esta permite estructurar el mensaje con claridad y coherencia.
             .row(numero="2" titulo="Las actitudes")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Se refiere a tres tipos de actitudes que influyen en el proceso comunicativo: las actitudes hacia uno mismo, las que se tienen respecto al tema tratado y las actitudes hacia el receptor. Estas determinan el tono, la intención y el nivel de empatía con el que se transmite el mensaje.
+                p Se refiere a tres tipos de actitudes que influyen en el proceso comunicativo: las actitudes hacia uno mismo, las que se tienen respecto al tema tratado y las actitudes hacia el receptor. Estas determinan el tono, la intención y el nivel de empatía con el que se transmite el mensaje.
             .row(numero="3" titulo="El nivel de preparación")
               .col-md-12.mb-4.mb-md-0
-                p.text-small El conocimiento que tenga el emisor sobre el tema es un factor decisivo para lograr una comunicación clara y efectiva. No se puede transmitir con éxito aquello que se desconoce o, por el contrario, si se domina un tema profundamente, es necesario saber simplificarlo y expresarlo de forma comprensible para el receptor.
+                p El conocimiento que tenga el emisor sobre el tema es un factor decisivo para lograr una comunicación clara y efectiva. No se puede transmitir con éxito aquello que se desconoce o, por el contrario, si se domina un tema profundamente, es necesario saber simplificarlo y expresarlo de forma comprensible para el receptor.
             .row(numero="4" titulo="El sistema sociocultural")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Las diferencias sociales y culturales condicionan el estilo y la forma en que las personas se comunican. Las interpretaciones y modos de expresión pueden variar considerablemente según el entorno cultural, lo que exige sensibilidad y adaptabilidad por parte del comunicador.
-                p.text-small Por su parte, Stoner (1996, pp. 376 - 410) añade que la diferencia entre una comunicación efectiva e inefectiva puede estar en la manera en que las partes involucradas gestionan las diferencias de percepción, ya que las personas interpretan los mensajes según sus conocimientos, experiencias y contexto. Además, las emociones como la ira, el miedo, el amor o el odio también afectan la forma en que se recibe y procesa un mensaje, influyendo directamente en la comprensión y en la calidad del intercambio comunicativo.
+                p Las diferencias sociales y culturales condicionan el estilo y la forma en que las personas se comunican. Las interpretaciones y modos de expresión pueden variar considerablemente según el entorno cultural, lo que exige sensibilidad y adaptabilidad por parte del comunicador.
+                p Por su parte, Stoner (1996, pp. 376 - 410) añade que la diferencia entre una comunicación efectiva e inefectiva puede estar en la manera en que las partes involucradas gestionan las diferencias de percepción, ya que las personas interpretan los mensajes según sus conocimientos, experiencias y contexto. Además, las emociones como la ira, el miedo, el amor o el odio también afectan la forma en que se recibe y procesa un mensaje, influyendo directamente en la comprensión y en la calidad del intercambio comunicativo.
  
         .col-lg-6.col-11.col-md-8
           img.mb-3(src='@/assets/curso/Tema2/img12.png', alt='')

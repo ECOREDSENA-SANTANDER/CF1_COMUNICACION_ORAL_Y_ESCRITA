@@ -145,7 +145,7 @@
                     .col-md-10.mb-4.mb-md-0.col-lg-6
                       br
                       h5.h5color Actitud asertiva
-                      p La actitud asertiva frente a la comunicación denota contundencia enmarcada en el respeto por el otro desde la demarcación de límites en la relación, implica tolerar lo intolerable sin la expectativa de que el otro sea tolerante. La asertividad implica tranquilidad consigo mismo y con el otro, implica gestión de emociones y por tanto inteligencia emocional. La persona asertiva se da el tiempo para pensar, sentir y actuar, a la vez que sin aferrarse a sus impulsos acepta y comprende la diferencia del otro complejizando sus miradas en diversos contextos.
+                      p La actitud asertiva frente a la comunicación denota contundencia enmarcada en el respeto por el otro desde la demarcación de límites en la relación, implica tolerar lo intolerable sin la expectativa de que el otro sea tolerante. La asertividad implica tranquilidad consigo mismo y con el otro, implica gestión de emociones, y por tanto, inteligencia emocional. La persona asertiva se da el tiempo para pensar, sentir y actuar, a la vez que sin aferrarse a sus impulsos acepta y comprende la diferencia del otro complejizando sus miradas en diversos contextos.
                     .col-md-6.col-lg-4
                       figure
                         img(src='@/assets/curso/Tema1/img14.png', alt='')
